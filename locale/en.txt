@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 18
+
+## Media
+
+### Title
+panorama_377AA2DC_3C2B_E51A_419A_64B1E7CB3750.label = MAH_GYM
